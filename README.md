@@ -6,3 +6,10 @@ Organized learning archive for embedded systems projects using Wokwi simulator a
 - [x] **02-millis-blink**: Refactored to non-blocking code. 
 - [ ] **03-multi-tasking**: (Next) Add Serial printing task.
 
+## 🗺️ Roadmap & Ideas
+- [x] Basic LED Blink (Delay)
+- [x] Non-blocking Blink (Millis)
+- [ ] Multi-tasking: LED + Serial Log [#1](https://github.com)
+- [ ] WiFi: Station Mode Connection
+
+
