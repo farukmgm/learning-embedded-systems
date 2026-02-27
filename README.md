@@ -10,6 +10,10 @@ Organized learning archive for embedded systems projects using Wokwi simulator a
 - [x] Basic LED Blink (Delay)
 - [x] Non-blocking Blink (Millis)
 - [ ] Multi-tasking: LED + Serial Log [#1](https://github.com)
+- [ ] Add a tactile button to the Wokwi diagram (Pin 4).
+- [ ] Implement simple "Polling" to toggle the LED.
+- [ ] Research and implement "External Interrupts" for instant response.
+- [ ] Handle "Button Bouncing" issues.
 - [ ] WiFi: Station Mode Connection
 
 
