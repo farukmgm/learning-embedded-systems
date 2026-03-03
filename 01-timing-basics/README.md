@@ -1,0 +1,13 @@
+# 🟢 Module 1: Timing & Inputs
+This module covers the transition from blocking code () to event-driven programming (Interrupts).
+
+### 📝 Key Concepts Learned
+- **Blocking vs. Non-blocking:** Why  stops the CPU and how  acts as a stopwatch.
+- **State Machines:** Using variables like  to remember what the hardware is doing.
+- **Hardware Interrupts:** Using  and  for instant button response without "polling" in the loop.
+
+### 🏁 Lessons Overview
+1. [01-delay-blink](./01-delay-blink): The "Hello World" of hardware.
+2. [02-millis-blink](./02-millis-blink): First refactor for multitasking.
+3. [03-multi-tasking](./03-multi-tasking): Running Serial and LED tasks at different intervals.
+4. [04-button-control](./04-button-control): Manual interaction via Polling.
