@@ -28,5 +28,4 @@ void setup() {
 
 void loop() {
   // Your logic here
-  delay(10);
 }
