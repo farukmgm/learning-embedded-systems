@@ -20,13 +20,13 @@ Organized learning archive for embedded systems projects using Wokwi simulator a
 *Focus: Mastering non-blocking code and reactive hardware interaction.*
 
 - [x] **01-Delay Blink**: Initial setup using `delay()`.
-  - [📁 Code](./01-timing-basics/01-delay-blink/) | [▶️ Simulate](https://wokwi.com)
+  - [📁 Code](./01-timing-basics/01-delay-blink/) | [▶️ Simulate](https://wokwi.com/projects/457051466109340673)
 - [x] **02-Millis Blink**: Refactored to `millis()` to prevent CPU blocking.
-  - [📁 Code](./01-timing-basics/02-millis-blink/) | [▶️ Simulate](https://wokwi.com)
+  - [📁 Code](./01-timing-basics/02-millis-blink/) | [▶️ Simulate](https://wokwi.com/projects/457051307720861697)
 - [x] **03-Multi-Tasking**: Added an independent Serial Heartbeat task.
-  - [📁 Code](./01-timing-basics/03-multi-tasking/) | [▶️ Simulate](https://wokwi.com)
+  - [📁 Code](./01-timing-basics/03-multi-tasking/) | [▶️ Simulate](https://wokwi.com/projects/457051666808898561)
 - [x] **04-Button Polling**: Toggle LED state by checking button in `loop()`.
-  - [📁 Code](./01-timing-basics/04-button-control/) | [▶️ Simulate](https://wokwi.com)
+  - [📁 Code](./01-timing-basics/04-button-control/) | [▶️ Simulate](https://wokwi.com/projects/457147705303713793)
 - [ ] **05-Interrupt Button**: (Current Goal) Instant response using Hardware Interrupts.
   - [📁 Code](./01-timing-basics/05-interrupt-button/) | [▶️ Simulate](https://wokwi.com/projects/457234475821123585)
 
