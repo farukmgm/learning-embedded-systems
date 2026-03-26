@@ -6,9 +6,10 @@ Each folder here correlates to a published post on Medium, documenting the "why"
 ## 📑 Article Directory
 
 Article Topic | Repository Folder | Medium Link | Key Challenge Solved
-| --- | --- | --- | --- |
-Hardware Independence | | | Syncing ESP8266 hardware with ESP32-S3 simulations.|
-| Next Challenge... | Coming Soon | Coming Soon | TBD | 
+| :--- | :---: | :---: | :--- |
+| Hardware Independence | [<>Code](./01-hardware-independence/) | [Article](https://medium.com/@farukmaisikeli_7072/hardware-vs-simulation-how-i-bridged-the-esp8266-and-esp32-s3-gap-c7dbc2f513a1) | Syncing ESP8266 hardware with ESP32-S3 simulations.|
+| The Mistaken Git Bug | Coming Soon | Coming Soon | TBD | 
+| First IoT Project | Coming Soon | Coming Soon | TBD |
 
 ## 🚀 Featured Challenge: The "Dual-Target" Problem
 
